@@ -1,0 +1,15 @@
+artifact_uri: mlruns/1/ce89f0b82fb34a9486beacf43c772736/artifacts
+end_time: 1659408419575
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: ce89f0b82fb34a9486beacf43c772736
+run_uuid: ce89f0b82fb34a9486beacf43c772736
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1659408412706
+status: 3
+tags: []
+user_id: srinivasarao.n
